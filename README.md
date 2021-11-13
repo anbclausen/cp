@@ -6,11 +6,10 @@ My code in this repo has been produced over a long time period, which means I ha
 I hope you will enjoy this repo and learn something new!
 
 ## Languages
-I use my favorite languages (and Python) for competitive programming. Here they are (in no particular order):
+I use my favorite languages (and Python) for competitive programming. Here the languages used in this repo (in no particular order):
 - [Haskell](https://www.haskell.org/)
 - [Kotlin](https://kotlinlang.org/)
 - [Nim](https://nim-lang.org/)
-- [Python](https://www.python.org/)
 - [Rust](https://www.rust-lang.org/)
 - [C++](https://www.cplusplus.com/)
 
