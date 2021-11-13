@@ -2,6 +2,15 @@
 # Created by https://www.toptal.com/developers/gitignore/api/haskell,python,rust,kotlin,nim,scala
 # Edit at https://www.toptal.com/developers/gitignore?templates=haskell,python,rust,kotlin,nim,scala
 
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
 ### Haskell ###
 dist
 dist-*
