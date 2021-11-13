@@ -12,6 +12,7 @@ I use my favorite languages (and Python) for competitive programming. Here they 
 - [Nim](https://nim-lang.org/)
 - [Python](https://www.python.org/)
 - [Rust](https://www.rust-lang.org/)
+- [C++](https://www.cplusplus.com/)
 
 ## Platforms
 These are the platforms I use and have used in the repo
