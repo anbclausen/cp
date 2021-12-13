@@ -1,5 +1,4 @@
 open System.Collections.Generic
-open System.Collections
 
 let connections = new Dictionary<string, string list>()
 
