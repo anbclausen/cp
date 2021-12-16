@@ -71,5 +71,5 @@ let h = m.Length
 while notDone.Contains (w-1, h-1) do 
   dijkstra()
 
-(* Still pretty slow, takes about 1.5, but I can live with that :D *)
+(* Still pretty slow, takes about 1.5 min, but I can live with that :D *)
 printfn "%i" (spt.[(w-1, h-1)])
