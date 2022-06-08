@@ -228,3 +228,4 @@ Cargo.lock
 
 .fake
 .ionide
+.vscode
